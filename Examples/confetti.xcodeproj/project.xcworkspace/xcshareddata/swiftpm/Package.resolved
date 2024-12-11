@@ -1,0 +1,15 @@
+{
+  "originHash" : "c4e1b0c009ba5c4bfbdc1b4dcab0b64f1d67caa8883332a654e3090bceed2b2b",
+  "pins" : [
+    {
+      "identity" : "wsconfetti",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/willsmillie/WSConfetti",
+      "state" : {
+        "branch" : "main",
+        "revision" : "be001e3f2a97bab644ad034eaf6588a78ec65976"
+      }
+    }
+  ],
+  "version" : 3
+}
